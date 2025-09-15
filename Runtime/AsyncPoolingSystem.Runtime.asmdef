@@ -1,0 +1,17 @@
+{
+    "name": "com.fscigliano.asyncpoolingsystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:40d92d47ca50e30428460113c5ff8bc3",
+        "GUID:f8ac2f27b8ee14df699bb52f8b38f19e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.fscigliano.asyncpoolingsystem",
+  "version": "1.0.0",
+  "displayName": "Async Pooling System",
+  "description": "Extended Pooling System with AsyncInitializations functionality.",
+  "unity": "2021.3",
+  "keywords": [
+    "tool"
+  ],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.dev@gmail.com",
+    "url": "https://github.com/franco-scigliano-dev/AsyncPoolingSystem"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.3.16",
+    "com.unity.scriptablebuildpipeline": "2.2.11",
+    "com.fscigliano.poolingsystem": "https://github.com/franco-scigliano-dev/PoolingSystem.git#v1.0.0",
+    "com.fscigliano.asyncinitializations": "https://github.com/franco-scigliano-dev/AsyncInitializations.git#v1.0.0"
+  },
+  "_fingerprint": "1651419f75ad3adfb41c613563657cbabb1e4864"
+}
